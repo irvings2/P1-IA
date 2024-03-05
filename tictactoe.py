@@ -1,4 +1,3 @@
-#from funcionesgato  import * #funciones y reglas del juego
 import tkinter as tk
 from tkinter import messagebox
 import random
@@ -7,7 +6,6 @@ class Gato:
     def __init__(self):
         self.ventana=tk.Tk()
         self.ventana.title("Gato")
-        #Los botones son colocados de manera que se lean de izquierda a derecha y de arriba a abajo
         self.jugador = "X"
         self.tablero = [[" " for _ in range(3)] for _ in range(3)]
         self.botones = [[None for _ in range(3)] for _ in range(3)]
