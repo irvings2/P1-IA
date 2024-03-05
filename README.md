@@ -1,3 +1,3 @@
-Ejercicios 1
-Integrantes:
-Guerrero Sanchez Irvin
+Ejercicios 1 </br>
+Integrantes: </br>
+Guerrero Sanchez Irvin </br>
